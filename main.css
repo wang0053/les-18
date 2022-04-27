@@ -18,6 +18,14 @@ h1 {
   font-size: 20px;
 }
 
+.gedeelte-1 {
+  background-color: lightsalmon;
+}
+
+.gedeelte-2 {
+  background-color: aquamarine;
+}
+
 
 @media (min-width: 1024px) {
   header{
